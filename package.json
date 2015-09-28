@@ -1,0 +1,32 @@
+{
+  "name": "atm3-postpackager-seajs",
+  "version": "0.0.1",
+  "description": "a postpackager plugin for fis to create sea-config.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/femxd/atm3-postpackager-seajs.git"
+  },
+  "keywords": [
+    "fis",
+    "postpackager",
+    "seajs"
+  ],
+  "author": {
+    "name": "AllanJS"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/femxd/atm3-postpackager-seajs/issues"
+  },
+  "homepage": "https://github.com/femxd/atm3-postpackager-seajs",
+  "maintainers": [
+    {
+      "name": "allanfish",
+      "email": "googleyufei@qq.com"
+    }
+  ]
+}
